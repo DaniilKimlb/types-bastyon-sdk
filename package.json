@@ -1,0 +1,19 @@
+{
+  "name": "@types/bastyon-sdk",
+  "version": "1.0.0",
+  "description": "TypeScript type definitions for BastyonSdk",
+  "main": "",
+  "types": "index.d.ts",
+  "author": "Pocketnet Team",
+  "license": "Apache-2.0",
+  "files": [
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaniilKimlb/types-bastyon-sdk"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
