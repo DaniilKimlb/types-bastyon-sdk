@@ -77,6 +77,7 @@ declare global {
 
     helpers: {
       alert(message: string): Promise<void>;
+      channel(address: string): Promise<void>;
       opensettings(): Promise<void>;
       registration(): Promise<void>;
       userstate(): Promise<unknown>;
